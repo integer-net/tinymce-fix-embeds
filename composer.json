@@ -1,0 +1,14 @@
+{
+    "name": "integer-net/tinymce-fix-embeds",
+    "description": "Fixes Magento bug introduced in 1.9.4.3 where iframes and video tags are rejected by tinyMCE",
+    "type": "magento-module",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Lisa Buchholz",
+            "email": "lb@integer-net.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

@@ -1,0 +1,5 @@
+src/app/code/community/IntegerNet/TinyMCEFixEmbeds app/code/community/IntegerNet/TinyMCEFixEmbeds
+src/app/design/adminhtml/default/default/layout/integernet_tinymcefixembeds/integernet_tinymcefixembeds.xml app/design/adminhtml/default/default/layout/integernet_tinymcefixembeds/integernet_tinymcefixembeds.xml
+src/app/etc/modules/IntegerNet_TinyMCEFixEmbeds.xml app/etc/modules/IntegerNet_TinyMCEFixEmbeds.xml
+src/js/integernet/tinymcefixembeds js/integernet/tinymcefixembeds
+src/js/tiny_mce/plugins/mediaIntegerNet js/tiny_mce/plugins/mediaIntegerNet
