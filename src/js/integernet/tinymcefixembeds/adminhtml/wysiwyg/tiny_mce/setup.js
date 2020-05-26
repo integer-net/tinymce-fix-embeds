@@ -185,7 +185,7 @@ tinyMceWysiwygSetup.prototype =
           +"|ondblclick|onkeydown|onkeypress|onkeyup|onmousedown|onmousemove"
           +"|onmouseout|onmouseover|onmouseup|size|style|title|width],"
           +"html[dir<ltr?rtl|lang|version],"
-          +"iframe[align<bottom?left?middle?right?top|class|frameborder|height|id"
+          +"iframe[align<bottom?left?middle?right?top|allow|allowfullscreen|class|frameborder|height|id"
           +"|longdesc|marginheight|marginwidth|name|scrolling<auto?no?yes|src|style"
           +"|title|width],"
           +"img[align<bottom?left?middle?right?top|alt|border|class|dir<ltr?rtl|height"
